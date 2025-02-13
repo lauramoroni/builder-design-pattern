@@ -8,7 +8,7 @@ public class Client {
        // Criação de objetos diretamente
        Country brazil = new Country("Brazil", "Brasília", 212.6, Continent.AMERICA);
        Country usa = new Country("United States", "Washington, D.C.", 331.0, Continent.AMERICA);
-       Country china = new Country("China", "Beijing", 1441.0, Continent.ASIA);
+       Country china = new Country("China", "Pequim", 1441.0, Continent.ASIA);
        
        // Exibir os objetos criados
        System.out.println(brazil);
